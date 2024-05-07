@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "namste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashin-55/REACT.git"
+  },
+  "author": "Ashin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashin-55/REACT/issues"
+  },
+  "homepage": "https://github.com/Ashin-55/REACT#readme",
+  "dependencies": {
+    "parse": "^5.0.0"
+  }
+}
